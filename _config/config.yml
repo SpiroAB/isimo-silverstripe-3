@@ -1,0 +1,8 @@
+---
+Name: isimo-silverstripe-3
+---
+
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - SpiroAB\Isimo\Config
+

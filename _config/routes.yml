@@ -1,0 +1,8 @@
+---
+Name: isimoroutes
+After: framework/routes#coreroutes
+---
+
+Director:
+  rules:
+    'isimo/status/$token': SpiroAB_Isimo_Status
